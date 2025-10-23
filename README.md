@@ -1,18 +1,8 @@
 # Flet Book Reader App
 
-Welcome to the Flet Book Reader App! This application is built using Flet, a Python web framework designed for simplicity and ease of use. The Flet Book Reader App provides a seamless experience for readers who want to explore, organize, and enjoy their favorite books in a digital format.
+Welcome to the Flet Book Reader App! This application is built using aygaa, a Python web framework designed for simplicity and ease of use. The Flet Book Reader App provides a seamless experience for readers who want to explore, organize, and enjoy their favorite books in a digital format.
 
-## Table of Contents
 
-1. [Demo](#demo)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
-
-## Demo
-[youtube](https://youtu.be/F_QveQ80s6I?si=WtHZYcrd9Lujm2nI)
 
 ### images
 ![image](https://github.com/phanstudio/flet-reader/assets/85735876/5feb5007-9c4d-4e18-8cb4-2e680f8573a7)
