@@ -1,0 +1,6 @@
+flet==0.25.1
+stagger==1.0.0
+vosk==0.3.45
+pytweening
+pillow
+pydub
