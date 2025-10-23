@@ -24,7 +24,7 @@ Follow these steps to set up the Flet Book Reader App locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/flet-reader.git
+   git clone git@github.com:aygaaa/flutter-assignment.git
    ```
 
 2. **Navigate to the Project Directory:**
